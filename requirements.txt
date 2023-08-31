@@ -1,0 +1,7 @@
+requests
+bs4
+colorama
+rich
+datetime
+random
+string
